@@ -7,7 +7,14 @@ So I got tired of being handed X # of new sites and having to manually install a
    ```
    wp @yoursitealias plugin list
    ```
-   One per line!
+   One per line! Ex:
+   ```
+   iwp-client
+   wordfence
+   really-simple-ssl
+   stop-spammer-registrations-plugin
+   litespeed-cache
+   ```
 2) Make sure you give the .sh file execute permissions
    ```
    chmod +x plugin_installer.sh
